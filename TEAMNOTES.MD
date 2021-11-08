@@ -18,7 +18,7 @@ These are dedicated status check-ins as this is a multi-week project
 https://github.com/elmsln/issues/issues/879
 - A hand drawn / computer sketch / XD / some annotation visually of what needs to be done or what pieces get broken out. This could be drawn on over top of a screen shot of the item or a photo of whiteboard sketches. Whatever make the most sense to you.
 
-![alt text](assets/PostCard Elements.jpg)
+![PostCard Elements](https://user-images.githubusercontent.com/63626720/140686959-0617c25d-ce98-47db-8c15-bc53dc247a48.jpg)
 
 - Initial questions / unknowns
  Are we making exact replicates of the post card or just have to have the same elements as the example?
