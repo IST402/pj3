@@ -27,9 +27,9 @@ https://github.com/elmsln/issues/issues/879
 Images, textboxes, background image, border for images
 
 #### What properties do you expect these to have?
--Images: Image and alt text (slot)
--Textboxes: slot
--Background image: Title
+- Images: Image and alt text (slot)
+- Textboxes: slot
+- Background image: Title
 
 #### Slots?
  Yes, for the textboxes and images
