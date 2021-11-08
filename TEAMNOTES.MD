@@ -14,7 +14,7 @@ These are notes to be maintained PER date that you meet. What you did and what t
 ## Status check ins
 These are dedicated status check-ins as this is a multi-week project
 ### Check-in 1
-- What project / issue your picking (link to it)
+#### What project / issue your picking (link to it)
 https://github.com/elmsln/issues/issues/879
 - A hand drawn / computer sketch / XD / some annotation visually of what needs to be done or what pieces get broken out. This could be drawn on over top of a screen shot of the item or a photo of whiteboard sketches. Whatever make the most sense to you.
 
