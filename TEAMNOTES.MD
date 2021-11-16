@@ -46,8 +46,11 @@ Images, textboxes, background image, border for images
 
 
 ### Check-in 2
-- 
-- 
+- Ran into webpack problem and switched over to yarn 
+- Created the framework of the postcard. Divided the sections of the postcard into a grid format
+- Implemented the slots
+- Wrote the design elements
+- Have to work on overlaying the postage. Looking into how to put the tape into the card. 
 ### Check-in 3
 - 
 - 
