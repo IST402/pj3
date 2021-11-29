@@ -13,7 +13,16 @@ export class RenameMe extends LitElement {
   constructor() {
     super();
     this.need = 'all need to succeed';
+
+    setTimeout(() => {
+      import('./Header.js');
+      import('./Photo.js');
+      import('./StatInfo.js');
+    }, 0);
+  
   }
+
+  
 
   // properties that you wish to use as data in HTML, CSS, and the updated life-cycle
   static get properties() {
@@ -57,20 +66,39 @@ export class RenameMe extends LitElement {
     return css`
       :host {
         display: block;
+        background-color: #F4BA2B;
+        width: 300px;
+        border: 15px solid black;
+        padding: 5px;
+        margin: 200px;
+        
+        
       }
-      :host([need='joy']) {
+      /* :host([need='joy']) {
         color: yellow;
         background-color: black;
-      }
+      } */
     `;
   }
 
   // HTML - specific to Lit
   render() {
     return html`
-      <h1>Make me awesome</h1>
-      <p>Build the future we ${this.need}.</p>
-      <slot></slot>
+    <div class="header">
+      <tc-header></tc-header>
+    </div>
+      
+    <div class="image">
+        <tc-photo></tc-photo>
+    </div>
+
+    <div>
+      <tc-statinfo></tc-statinfo>
+      <tc-statinfo></tc-statinfo>
+      <tc-statinfo></tc-statinfo>
+    </div>
+
+
     `;
   }
 
