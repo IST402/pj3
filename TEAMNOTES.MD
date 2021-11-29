@@ -52,8 +52,10 @@ Images, textboxes, background image, border for images
 - Wrote the design elements
 - Have to work on overlaying the postage. Looking into how to put the tape into the card. 
 ### Check-in 3
-- 
-- 
+- Changed our project selection to the trading cards
+- Created the main frame of the trading card. Added slots for necessary part of the code. Card is mainly static right now.
+- Design is pretty much completed. We need to just focus on the functionality now.
+- We did individual study on HAX and looked up how to implement the user input feature 
 ### Check-in 4
 - 
 - 
