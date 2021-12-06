@@ -57,5 +57,7 @@ Images, textboxes, background image, border for images
 - Design is pretty much completed. We need to just focus on the functionality now.
 - We did individual study on HAX and looked up how to implement the user input feature 
 ### Check-in 4
-- 
-- 
+- Implemented simpleicons and simplecolors
+- Use the map function to map the elements of the statinfo 
+- 2 team members = 2 cards; one red panda trading card, one cat trading card
+- We will work on fully wiring the cards to HAX
